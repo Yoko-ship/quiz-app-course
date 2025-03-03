@@ -1,0 +1,32 @@
+.winner ul{
+    list-style: none;
+    font-size: 24px;
+}
+.number{
+    font-size: 18px;
+    border: 1px solid black;
+    width: 20px;
+    margin: 0 auto;
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+    padding: 8px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.question{
+    color: black;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.skipped{
+    color: #d9c4f7;
+}
+
+.success{
+    color: rgb(14, 75, 14);
+}
+.error{
+    color: rgb(148, 18, 18);
+}
